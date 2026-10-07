@@ -1,0 +1,11 @@
+*.o
+*.a
+fiber_demo
+round_robin
+priority
+synchronization
+job_control_demo
+address_space_demo
+memory_demo
+page_replacement_demo
+test_fiber
